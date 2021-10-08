@@ -1,0 +1,19 @@
+{
+  "books": {
+    "1000": { "name": "clean code" },
+    "1001": { "name": "clean coder" },
+    "1002": { "name": "clean arcitechture" },
+    "1003": { "name": "test test", "price": 400000 },
+    "1004": { "name": "test ", "price": 400000 },
+    "1005": { "name": "other book", "price": 300000 }
+  },
+  "sellers": {
+    "1000": { "name": "iranbook" },
+    "1001": { "name": "someone", "address": "bu - bahmani" }
+  },
+  "buyers": {
+    "1000": { "name": "Reza" },
+    "1001": { "name": "someone", "bookid": "1002" },
+    "1002": { "name": "someone", "bookid": "1002" }
+  }
+}
